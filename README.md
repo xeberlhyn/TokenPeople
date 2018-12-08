@@ -2,7 +2,7 @@
 SEKUAT APAPUN TOKEN YANG KITA PERGUNAKAN, AKAN LOGOUT JUGA JIKA KITA UGAL UGALAN DALAM MENGGUNAKAN BOT
 
 termux-setup-storage
-cd storzge
+cd storage
 cd downloads
 git clone https://github.com/xeberlhyn/TokenPeople
 ls
